@@ -11,7 +11,7 @@ provider "github" {
   # Configuration options
 }
 
-resource "github_repsitory" "Myrepo" {
+resource "github_repository" "Myrepo" {
     name = "Terraform-test"
     
 
