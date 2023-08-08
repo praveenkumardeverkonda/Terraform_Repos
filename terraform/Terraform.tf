@@ -12,7 +12,5 @@ provider "github" {
 }
 
 resource "github_repository" "Myrepo" {
-    name = "Terraform-test"
-    
-
+    name = "Terraform-test"    # this is line of information
 }
