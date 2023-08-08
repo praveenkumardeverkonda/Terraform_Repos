@@ -16,4 +16,3 @@ resource "github_repository" "Myrepo" {
     
 
 }
-
